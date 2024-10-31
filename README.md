@@ -1,5 +1,5 @@
 🚀 Projets Data Factory sur Azure | 💻✨<br>
-🌐 *Bienvenue dans mon repo de projets Azure Data Factory !* Ici, je crée des pipelines dynamiques pour<br> transformer et orchestrer les données 🔄📊. À travers ces mini-projets, vous verrez comment :<br>
+🌐 *Bienvenue dans mon repo de projets Azure Data Factory !* Ici, je crée des pipelines dynamiques<br> pour transformer et orchestrer les données 🔄📊. À travers ces mini-projets, vous verrez comment :<br>
 
    ⚙️ Automatiser les flux de données<br>
    🛠️ Gérer les erreurs dans les transformations<br>
